@@ -62,7 +62,3 @@ model.fit(
 
 model.save("pneumonia_model_balanced.h5")
 print("✅ Balanced model saved")
-    print("Saving model...")
-    model.save('best_model.keras')
-    print("✅ DONE! Model saved as 'best_model.keras'")
->>>>>>> upstream/main
